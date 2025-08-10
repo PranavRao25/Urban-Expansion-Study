@@ -1,6 +1,6 @@
 # Urban-Expansion-Study
 
-This project aims to study the changes in Urban Area of five cities - Bangalore, Coimbatore, Hyderabad, Indore, and Mumbai over the period of 2019-2024. This has been done via Satellite Imagery using the NDBI metric on the Google Earth Engine software.
+This project aims to study the changes in Urban Area of five cities - Bangalore, Coimbatore, Hyderabad, Indore, and Mumbai over the period of 2019-2024. This has been done via Satellite Imagery using the NDBI metric on the Google Earth Engine software. This Project was carried out as part of the Summer Training / Internship program on Remote Sensing and GIS by Indian Space Academy in 2025.
 
 ## Data Used
 We utilised the Sentinel 2A satellite data for analysis (specifically the bands B8 and B11 bands for NIR and SWIR respectively). We marked the Areas of Interest for each of the cities.
